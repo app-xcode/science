@@ -7,3 +7,11 @@ sudo apt install -y nodejs
 
 node -v
 npm -v
+
+git clone https://github.com/username/proyek-kamu.git
+cd proyek-kamu
+
+npm install
+
+
+
