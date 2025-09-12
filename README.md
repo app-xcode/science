@@ -13,8 +13,16 @@ cd proyek-kamu
 
 npm install
 
+sudo ufw allow OpenSSH
+sudo ufw allow 80
+sudo ufw allow 443
+sudo ufw allow 3000   # port Node.js kalau masih direct
+sudo ufw enable
+
 sudo npm install -g pm2
 
 pm2 start server.js
+
+
 
 
