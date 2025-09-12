@@ -13,5 +13,8 @@ cd proyek-kamu
 
 npm install
 
+sudo npm install -g pm2
+
+pm2 start server.js
 
 
