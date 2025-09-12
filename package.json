@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@sparticuz/chromium-min": "^132.0.0",
+    "axios": "^1.7.9",
+    "cookie-parser": "^1.4.7",
+    "crypto": "^1.0.1",
+    "express": "^4.21.2",
+    "express-session": "^1.18.1",
+    "fetch-cookie": "^3.1.0",
+    "file-type": "^21.0.0",
+    "fs": "^0.0.1-security",
+    "he": "^1.2.0",
+    "jsdom": "^26.1.0",
+    "mime-types": "^2.1.35",
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^24.2.0",
+    "puppeteer-core": "^24.2.0"
+  },
+  "type": "module"
+}

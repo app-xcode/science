@@ -1,0 +1,185 @@
+{
+    "outlineTitle": "Outline",
+    "outline": [
+        {
+            "#name": "entry",
+            "$": {
+                "id": "ab0010",
+                "type": "abstract",
+                "class": "author",
+                "depth": "1"
+            },
+            "$$": [
+                {
+                    "#name": "title",
+                    "$": {
+                        "id": "sect0005"
+                    },
+                    "_": "Abstract"
+                }
+            ]
+        },
+        {
+            "#name": "entry",
+            "$": {
+                "id": "keys0005",
+                "type": "keywords",
+                "class": "jel",
+                "depth": "1"
+            },
+            "$$": [
+                {
+                    "#name": "title",
+                    "$": {
+                        "id": "sect0010"
+                    },
+                    "_": "JEL Classifications"
+                }
+            ]
+        },
+        {
+            "#name": "entry",
+            "$": {
+                "id": "keys0010",
+                "type": "keywords",
+                "class": "keyword",
+                "depth": "1"
+            },
+            "$$": [
+                {
+                    "#name": "title",
+                    "$": {
+                        "id": "sect0015"
+                    },
+                    "_": "Keywords"
+                }
+            ]
+        },
+        {
+            "#name": "entry",
+            "$": {
+                "id": "sec0005",
+                "type": "sections",
+                "depth": "1"
+            },
+            "$$": [
+                {
+                    "#name": "label",
+                    "_": "1"
+                },
+                {
+                    "#name": "title",
+                    "$": {
+                        "id": "sect0020"
+                    },
+                    "_": "Introduction"
+                }
+            ]
+        },
+        {
+            "#name": "entry",
+            "$": {
+                "id": "sec0010",
+                "type": "sections",
+                "depth": "1"
+            },
+            "$$": [
+                {
+                    "#name": "label",
+                    "_": "2"
+                },
+                {
+                    "#name": "title",
+                    "$": {
+                        "id": "sect0025"
+                    },
+                    "_": "Conceptualization Research"
+                }
+            ]
+        },
+        {
+            "#name": "entry",
+            "$": {
+                "id": "sec0015",
+                "type": "sections",
+                "depth": "1"
+            },
+            "$$": [
+                {
+                    "#name": "label",
+                    "_": "3"
+                },
+                {
+                    "#name": "title",
+                    "$": {
+                        "id": "sect0030"
+                    },
+                    "_": "Research hypothesis"
+                }
+            ]
+        },
+        {
+            "#name": "entry",
+            "$": {
+                "id": "sec0020",
+                "type": "sections",
+                "depth": "1"
+            },
+            "$$": [
+                {
+                    "#name": "label",
+                    "_": "4"
+                },
+                {
+                    "#name": "title",
+                    "$": {
+                        "id": "sect0035"
+                    },
+                    "_": "Methodology"
+                }
+            ]
+        },
+        {
+            "#name": "entry",
+            "$": {
+                "id": "sec0025",
+                "type": "sections",
+                "depth": "1"
+            },
+            "$$": [
+                {
+                    "#name": "label",
+                    "_": "5"
+                },
+                {
+                    "#name": "title",
+                    "$": {
+                        "id": "sect0040"
+                    },
+                    "_": "Conclusion"
+                }
+            ]
+        },
+        {
+            "#name": "entry",
+            "$": {
+                "id": "bibliog0005",
+                "type": "bibliography",
+                "depth": "1"
+            },
+            "$$": [
+                {
+                    "#name": "title",
+                    "$": {
+                        "id": "sect0050"
+                    },
+                    "_": "References"
+                }
+            ]
+        }
+    ],
+    "figures": [],
+    "tables": [],
+    "extras": [],
+    "attachments": []
+}

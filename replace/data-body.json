@@ -1,0 +1,369 @@
+{
+    "content": [
+        {
+            "#name": "body",
+            "$": {
+                "xmlns": true,
+                "xmlns:mml": true,
+                "xmlns:ce": true,
+                "xmlns:xs": true,
+                "xmlns:xlink": true,
+                "xmlns:tb": true,
+                "xmlns:xocs": true,
+                "xmlns:xsi": true,
+                "xmlns:cals": true,
+                "xmlns:sb": true,
+                "xmlns:sa": true,
+                "xmlns:ja": true,
+                "view": "all"
+            },
+            "$$": [
+                {
+                    "#name": "sections",
+                    "$$": [
+                        {
+                            "#name": "section",
+                            "$": {
+                                "id": "sec0005",
+                                "role": "introduction",
+                                "view": "all"
+                            },
+                            "$$": [
+                                {
+                                    "#name": "label",
+                                    "_": "1"
+                                },
+                                {
+                                    "#name": "section-title",
+                                    "$": {
+                                        "id": "sect0020"
+                                    },
+                                    "_": "Introduction"
+                                },
+                                {
+                                    "#name": "para",
+                                    "$": {
+                                        "id": "p0005",
+                                        "view": "all"
+                                    },
+                                    "$$": [
+                                        {
+                                            "#name": "__text__",
+                                            "_": "Online education has emerged as a flexible and accessible alternative to traditional classroom-based learning due to the rapid growth of information and communication technology (ICT). In eastern Indonesia, online learning has become increasingly popular in Open and Distance Education (ODE) institutions, providing learners with opportunities to further their education while balancing other obligations (Lange & Costley, 2020; Trevisan et al., 2023; Cavus et al., 2021). However, despite its potential advantages, online learning faces significant challenges, especially for students in frontier, remote, and underprivileged regions (Bovermann et al., 2018)."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "#name": "para",
+                                    "$": {
+                                        "id": "p0010",
+                                        "view": "all"
+                                    },
+                                    "$$": [
+                                        {
+                                            "#name": "__text__",
+                                            "_": "The Open University pioneered Indonesia's Open and Distance Education system, greatly expanding access to education and enabling individuals to improve their qualifications (Titus & Muttungal, 2023). The COVID-19 pandemic accelerated this shift, forcing adult education at the Open University to fully transition from offline to online learning (Hew et al., 2020). This approach has persisted even after the pandemic (Sahni, 2023), as adult learners find online education attractive due to its flexibility in accommodating time, location, and learning needs (Full et al., 2019; Blayone et al., 2017)."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "#name": "para",
+                                    "$": {
+                                        "id": "p0015",
+                                        "view": "all"
+                                    },
+                                    "$$": [
+                                        {
+                                            "#name": "__text__",
+                                            "_": "Nevertheless, part-time adult learners face difficulties balancing work, family, and academic obligations, which may limit their ability to fully engage in learning activities (Dwiyogo, 2018). Poor institutional support and inadequate instructional strategies that are not tailored to their needs can further hinder their success (Kauffman, 2015). To address these challenges, it is crucial to identify the factors influencing the effectiveness of online learning. Previous studies have employed the Information System Success (ISS) model, which evaluates aspects such as perceived benefits, system quality, information quality, and service quality (Alismaiel et al., 2022; Ally, 2008). However, most of these studies have been conducted in developed countries."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "#name": "para",
+                                    "$": {
+                                        "id": "p0020",
+                                        "view": "all"
+                                    },
+                                    "$$": [
+                                        {
+                                            "#name": "__text__",
+                                            "_": "Recent advancements have expanded the ISS model by incorporating other theories such as the Expectation Confirmation Model (ECM) and the Technology Acceptance Model (TAM) (Dumford & Miller, 2018; Koh et al., 2023; Yuebo et al., 2023). These studies have examined user satisfaction, system usage, and cultural influences on e-learning. However, the potential of the Technological Pedagogical Content Knowledge (TPACK) framework, which integrates technology, pedagogy, and content knowledge, remains underexplored (Hrastinski, 2019; Lu & Cutumisu, 2022). More research is needed to understand how TPACK enhances teachers’ effectiveness in online education (Tomei, 2007)."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "#name": "para",
+                                    "$": {
+                                        "id": "p0025",
+                                        "view": "all"
+                                    },
+                                    "$$": [
+                                        {
+                                            "#name": "__text__",
+                                            "_": "To address this gap, this study develops a model of online learning success for adult non-full-time learners in eastern Indonesia, particularly in frontier, outermost, and underprivileged (3T) regions (Suhandiah et al., 2022). By integrating the ISS model with the TPACK framework, this research examines how system quality, service quality, and teachers’ TPACK competencies affect online learning success. Data from 150 participants were analyzed using Partial Least Squares Structural Equation Modelling (PLS-SEM) (Aklani & Liling, 2023). This study contributes by offering a more comprehensive understanding of online learning success and providing practical implications for policymakers and educational practitioners to design effective learning environments."
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "#name": "section",
+                            "$": {
+                                "id": "sec0010",
+                                "view": "all"
+                            },
+                            "$$": [
+                                {
+                                    "#name": "label",
+                                    "_": "2"
+                                },
+                                {
+                                    "#name": "section-title",
+                                    "$": {
+                                        "id": "sect0025"
+                                    },
+                                    "_": "Conceptualization Research"
+                                },
+                                {
+                                    "#name": "para",
+                                    "$": {
+                                        "id": "p0030",
+                                        "view": "all"
+                                    },
+                                    "_": "This study explores the advantages of online learning by focusing on learners’ perceived satisfaction and their intention to continue using online learning systems for academic or professional development. The conceptual framework integrates the Information System Success (ISS) model with Technological Pedagogical Content Knowledge (TPACK) theory (Koehler et al., 2015)."
+                                },
+                                {
+                                    "#name": "para",
+                                    "$": {
+                                        "id": "p0035",
+                                        "view": "all"
+                                    },
+                                    "_": "The proposed model consists of nine constructs: information quality (IQ), system quality (SQ), service quality (SEQ), sustained usage (USE), user satisfaction (US), TPACK, and net benefits (NB). Online learning (OL) system effectiveness is determined by the degree of efficiency and support provided to users (Thyssen et al., 2023). High-quality systems enhance usability, privacy, and the retrieval of information (Mario et al., 2023). Service quality reflects the ability to meet learners’ expectations when interacting with OL platforms, while information quality relates to the accuracy, timeliness, completeness, and relevance of learning materials (Acar-şeşen, 2023)."
+                                },
+                                {
+                                    "#name": "para",
+                                    "$": {
+                                        "id": "p0040",
+                                        "view": "all"
+                                    },
+                                    "_": "User satisfaction (US) refers to learners’ cognitive evaluation of whether the effort and benefits of the system are worthwhile, while sustained usage (USE) reflects their willingness to continue engaging with the platform (Muslimin, 2023). Net benefits (NB) involve the academic, professional, and personal growth learners achieve after using OL systems. Teachers’ TPACK represents the core competencies required to integrate technology, pedagogy, and content effectively (Hidayati et al., 2023; Thohir, 2023)."
+                                },
+                                {
+                                    "#name": "para",
+                                    "$": {
+                                        "id": "p0045",
+                                        "view": "all"
+                                    },
+                                    "_": "TPACK emphasizes not only technical knowledge but also pedagogical strategies and subject-matter expertise in technology-enhanced learning environments. Teacher participation and reflection are central to implementing effective practices, and TPACK training in teacher education programs is necessary for adult learners’ success (Trevisan et al., 2023; Pujawan et al., 2022)."
+                                },
+                                {
+                                    "#name": "para",
+                                    "$": {
+                                        "id": "p0050",
+                                        "view": "all"
+                                    },
+                                    "_": "This study’s conceptual framework therefore combines ISS and TPACK to provide a comprehensive approach to understanding and improving adult online learning success, particularly in Indonesia’s 3T (frontier, outermost, and underprivileged) regions. It highlights the importance of aligning technological, pedagogical, and content dimensions with learners’ unique needs to achieve effective online learning outcomes."
+                                }
+                            ]
+                        },
+                        {
+                            "#name": "section",
+                            "$": {
+                                "id": "sec0015",
+                                "view": "all"
+                            },
+                            "$$": [
+                                {
+                                    "#name": "label",
+                                    "_": "3"
+                                },
+                                {
+                                    "#name": "section-title",
+                                    "$": {
+                                        "id": "sect0030"
+                                    },
+                                    "_": "Research hypothesis"
+                                },
+                                {
+                                    "#name": "para",
+                                    "$": {
+                                        "id": "p0085",
+                                        "view": "all"
+                                    },
+                                    "_": "Digital technologies are essential to online learning (OL), and students’ attitudes and motivation to participate actively can be influenced by the usability and functionality of these systems (Toker, 2022). Implementing suitable systems enhances learning results and emphasizes how multimedia can improve the OL environment."
+                                },
+                                {
+                                    "#name": "para",
+                                    "$": {
+                                        "id": "p0090",
+                                        "view": "all"
+                                    },
+                                    "_": "H1a: The intention to stick with the OL system is positively impacted by system quality. H1b: Perceived satisfaction is significantly impacted by system quality."
+                                },
+                                {
+                                    "#name": "para",
+                                    "$": {
+                                        "id": "p0095",
+                                        "view": "all"
+                                    },
+                                    "_": "H2a: Service quality has a significant positive impact on the broader use of the OL system. H2b: Service quality has a positive and significant impact on identified problems."
+                                },
+                                {
+                                    "#name": "para",
+                                    "$": {
+                                        "id": "p0100",
+                                        "view": "all"
+                                    },
+                                    "_": "H3a: Perceived satisfaction is positively impacted by information quality. H3b: Sustained usage benefits from high-quality information."
+                                },
+                                {
+                                    "#name": "para",
+                                    "$": {
+                                        "id": "p0105",
+                                        "view": "all"
+                                    },
+                                    "_": "H4a: Perceived satisfaction is positively impacted by TPACK. H4b: TPACK contributes to the sustained use of OL systems. H4c: Net benefits are positively impacted by TPACK."
+                                },
+                                {
+                                    "#name": "para",
+                                    "$": {
+                                        "id": "p0110",
+                                        "view": "all"
+                                    },
+                                    "_": "H5: Sustained usage of OL systems is positively impacted by user satisfaction. H6: Net benefits are significantly increased when users are satisfied. H7: Net benefits are positively impacted by continued use."
+                                }
+                            ]
+                        },
+                        {
+                            "#name": "section",
+                            "$": {
+                                "id": "sec0020",
+                                "view": "all"
+                            },
+                            "$$": [
+                                {
+                                    "#name": "label",
+                                    "_": "4"
+                                },
+                                {
+                                    "#name": "section-title",
+                                    "$": {
+                                        "id": "sect0035"
+                                    },
+                                    "_": "Methodology"
+                                },
+                                {
+                                    "#name": "para",
+                                    "$": {
+                                        "id": "p0110",
+                                        "view": "all"
+                                    },
+                                    "_": "This study employed a quantitative research design using a survey method to examine the factors influencing students’ sustained use of online learning (OL) systems. The research framework was adapted from the updated DeLone and McLean IS success model, incorporating TPACK as an additional construct to reflect pedagogical and technological integration in OL environments."
+                                },
+                                {
+                                    "#name": "para",
+                                    "$": {
+                                        "id": "p0115",
+                                        "view": "all"
+                                    },
+                                    "_": "Data were collected through an online questionnaire distributed to university students actively engaged in OL platforms during the academic year. The instrument measured system quality, information quality, service quality, TPACK, user satisfaction, sustained usage, and net benefits. All items were rated on a five-point Likert scale ranging from strongly disagree (1) to strongly agree (5)."
+                                },
+                                {
+                                    "#name": "para",
+                                    "$": {
+                                        "id": "p0120",
+                                        "view": "all"
+                                    },
+                                    "_": "A purposive sampling technique was used to target respondents with relevant OL experience. A total of XXX valid responses were obtained after screening for incomplete or inconsistent answers. The sample size met the minimum requirements for structural equation modeling (SEM) analysis."
+                                },
+                                {
+                                    "#name": "para",
+                                    "$": {
+                                        "id": "p0125",
+                                        "view": "all"
+                                    },
+                                    "_": "Data analysis was conducted using Partial Least Squares Structural Equation Modeling (PLS-SEM). The measurement model was assessed for validity and reliability through indicator loadings, composite reliability, and average variance extracted (AVE). The structural model was then evaluated by examining path coefficients, R² values, and predictive relevance (Q²). Bootstrapping with 5,000 resamples was applied to test the significance of the hypothesized relationships."
+                                },
+                                {
+                                    "#name": "para",
+                                    "$": {
+                                        "id": "p0130",
+                                        "view": "all"
+                                    },
+                                    "_": "This methodological approach allowed the study to empirically validate the extended IS success model within the context of OL systems, providing insights into the role of technological and pedagogical integration in sustaining student engagement and generating net benefits."
+                                }
+                            ]
+                        },
+                        {
+                            "#name": "section",
+                            "$": {
+                                "id": "sec0025",
+                                "role": "conclusion",
+                                "view": "all"
+                            },
+                            "$$": [
+                                {
+                                    "#name": "label",
+                                    "_": "5"
+                                },
+                                {
+                                    "#name": "section-title",
+                                    "$": {
+                                        "id": "sect0040"
+                                    },
+                                    "_": "Conclusion"
+                                },
+                                {
+                                    "#name": "para",
+                                    "$": {
+                                        "id": "p0135",
+                                        "view": "all"
+                                    },
+                                    "_": "In conclusion, this study combines the ISS Model and TPACK to provide a thorough model for effective adult online learning. The results highlight the vital role that teachers' TPACK teaching proficiency plays in enhancing the advantages that adult learners gain from online learning."
+                                },
+                                {
+                                    "#name": "para",
+                                    "$": {
+                                        "id": "p0140",
+                                        "view": "all"
+                                    },
+                                    "_": "This study emphasizes how crucial teachers' TPACK competencies are in determining how well online learning goes. The findings indicate that learners' reported satisfaction and sustained engagement are positively impacted by high TPACK abilities. Furthermore, this study emphasizes how TPACK improves student learning outcomes in online learning contexts."
+                                },
+                                {
+                                    "#name": "para",
+                                    "$": {
+                                        "id": "p0145",
+                                        "view": "all"
+                                    },
+                                    "_": "Enhancing TPACK abilities has the potential to enhance teaching methods, promote consistent usage of online learning environments, and raise student satisfaction, especially for the study's adult participants."
+                                },
+                                {
+                                    "#name": "para",
+                                    "$": {
+                                        "id": "p0150",
+                                        "view": "all"
+                                    },
+                                    "_": "Nonetheless, it is critical to acknowledge certain limitations. First, even though teachers and administrators play a big role in the OL process, their opinions were not taken into account in this survey, which only included students as respondents. Therefore, to analyze the elements that influence adult online learners' success, future studies should look into the viewpoints of administrators and instructors."
+                                },
+                                {
+                                    "#name": "para",
+                                    "$": {
+                                        "id": "p0155",
+                                        "view": "all"
+                                    },
+                                    "_": "Second, care should be taken when extrapolating the findings because the study's sample is restricted to students in a certain area. To identify the success determinants of adult online learning in various countries, more study is required because different regions have distinct learning contexts and resources."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "floats": [],
+    "footnotes": [],
+    "attachments": [],
+    "correspondences": {},
+    "affiliations": {}
+}
