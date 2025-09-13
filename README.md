@@ -41,10 +41,12 @@ sudo ln -s /etc/nginx/sites-available/science /etc/nginx/sites-enabled/
 sudo nginx -t
 sudo systemctl restart nginx
 
+sudo apt install -y certbot python3-certbot-nginx
+sudo certbot --nginx -d example.com -d www.example.com
+
 sudo npm install -g pm2
 
 pm2 start server.js
-
 
 
 
